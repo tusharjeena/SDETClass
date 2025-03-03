@@ -40,7 +40,7 @@ public class Arithematic {
 		System.out.println("Enter the value of x4");
 		int x4=scan.nextInt();
 		
-		System.out.println("Enter the value of x5");
+		System.out.println("Enter the value of x5:");
 		int x5=scan.nextInt();
 		
 		Arithematic ob = new Arithematic();
